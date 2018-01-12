@@ -38,7 +38,7 @@ public class Article
     }
 
     public String getContent(String string){
-        // wycina tekst ale tylko podczas tworzenia objektu lub to mozesz zostawic
+        // wycina tekst ale tylko podczas tworzenia obiektu
         return string;
     }
 
